@@ -1,7 +1,7 @@
 {{ define "main" }}
   <div>
     {{ range .Site.RegularPages }}
-        {{ .Render "summary" }}
+        {{ .Render "nav-links" }}
     {{ end }}
   </div>
 {{ end }}
