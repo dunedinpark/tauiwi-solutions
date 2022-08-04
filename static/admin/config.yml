@@ -15,8 +15,8 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-  - name: 'page'
-    label: 'Page'
+  - name: 'website-page'
+    label: 'Website Page'
     folder: 'content/page'
     create: true
     slug: '{{slug}}'
@@ -29,9 +29,10 @@ collections:
   - label: "Pages"
     name: "pages"
     files:
-      - label: "About Page"
-        name: "about"
+      - label: "Home Page"
+        name: "home"
         file: "content/index.md"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Photo, name: photo, widget: image}
           - {label: Intro, name: intro, widget: markdown}

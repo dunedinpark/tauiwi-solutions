@@ -1,7 +1,6 @@
 {{ define "main" }}
   <div>
-    {{ range .Site.RegularPages }}
-        {{ .Render "nav-links" }}
-    {{ end }}
+    <h2>{{ .Title }}</h2>
+    <p>{{ .Content }}</p>
   </div>
 {{ end }}
