@@ -31,7 +31,7 @@ collections:
     files:
       - label: "Home Page"
         name: "home"
-        file: "content/index.md"
+        file: "content/_index.md"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Photo, name: photo, widget: image}
