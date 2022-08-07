@@ -1,4 +1,12 @@
-img.tauiwi-logo {
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+a.tauiwi-logo {
+  font-weight: 700;
+}
+
+a.tauiwi-logo img {
   border-radius: 50%;
 }
 
@@ -6,12 +14,6 @@ nav.navbar.navbar-expand-lg {
   background: rgb(141, 100, 160);
 }
 
-.navbar-nav a {
+a.tauiwi-logo, .navbar-nav a {
   color: #ffffff;
-}
-
-@media (min-width: 992px) {
-  .navbar-expand-lg .navbar-collapse {
-    justify-content: flex-end;
-  }
 }
