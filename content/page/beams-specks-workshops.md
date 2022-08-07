@@ -1,6 +1,6 @@
 ---
 title: Beams & Specks Workshops
-date: 2022-07-31T21:08:49.508Z
+date: 2022-08-01T09:50:49.508Z
 ---
 Beams & Specks - when you open the curtains and let in the beams of sunlight, You see all the specks of dust that were always there but not able to be seen.
 
