@@ -9,7 +9,7 @@
   </div>
   <div class="container mt-5">
     <div class="row justify-content-center">
-      <p>{{ .Content }}</p>
+      <p>{{ .Params.intro | markdownify }}</p>
     </div>
   </div>
 {{ end }}
