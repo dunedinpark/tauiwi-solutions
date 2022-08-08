@@ -15,12 +15,29 @@ a.tauiwi-logo img {
   border-radius: 50%;
 }
 
+a.tauiwi-logo, .navbar-nav a {
+  color: #ffffff;
+}
+
 nav.navbar.navbar-expand-lg {
   background: rgb(141, 100, 160);
 }
 
-a.tauiwi-logo, .navbar-nav a {
-  color: #ffffff;
+a.cta-btn {
+  background-color: #ddd;
+  border: none;
+  color: black;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition: 0.3s;
+  text-decoration: none;
+  border-radius: 2rem;
+}
+a.cta-btn:hover {
+  background-color: rgb(141, 100, 160);
+  color: white;
 }
 
 .page-banner {
@@ -49,5 +66,8 @@ a.tauiwi-logo, .navbar-nav a {
 
 .page-title p {
   font-style: italic;
+  font-weight: 700;
+  font-size: 1.4rem;
+  margin-bottom: 2rem;
   color: rgb(165, 217, 251);
 }
