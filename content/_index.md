@@ -6,7 +6,7 @@ intro: >-
   # Welcome to Tauiwi Solutions
 
 
-  Tauiwi Solutions was formed in 2006 as a facilitation and workshop service offered by cross-cultural Tauiwi facilitators based in Otepoti (Dunedin).
+  **Tauiwi Solutions** was formed in 2006 as a facilitation and workshop service offered by cross-cultural Tauiwi facilitators based in Otepoti (Dunedin).
 
 
   We have worked as facilitators since the 1980's and are skilled and experienced Treaty of Waitangi educators.
