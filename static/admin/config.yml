@@ -34,5 +34,6 @@ collections:
         file: "content/_index.md"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Sub title, name: sub-title, widget: string}
           - {label: Photo, name: photo, widget: image}
           - {label: Intro, name: intro, widget: markdown}
