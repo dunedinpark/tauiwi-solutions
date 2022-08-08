@@ -15,7 +15,19 @@ a.tauiwi-logo img {
   border-radius: 50%;
 }
 
-a.tauiwi-logo, .navbar-nav a {
+@media (max-width: 992px) {
+  p.site-title {
+    display: none;
+  }
+}
+
+p.site-title {
+  margin-bottom: 0;
+  font-weight: 700;
+  font-size: 1.4rem;
+}
+
+p.site-title, .navbar-nav a {
   color: #ffffff;
 }
 
