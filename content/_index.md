@@ -1,5 +1,6 @@
 ---
 title: Home
+sub-title: Our team is headed by Suzanne Menzies-Culling
 photo: /img/home-img.jpg
 intro: >-
   Tauiwi Solutions was formed in 2006 as a facilitation and workshop service
