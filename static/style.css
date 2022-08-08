@@ -1,5 +1,10 @@
 body {
   font-family: 'Open Sans', sans-serif;
+  color: #656d78;
+}
+
+h1, h2 {
+  font-weight: 700;
 }
 
 a.tauiwi-logo {
@@ -16,4 +21,26 @@ nav.navbar.navbar-expand-lg {
 
 a.tauiwi-logo, .navbar-nav a {
   color: #ffffff;
+}
+
+.page-banner {
+  position: relative;
+}
+
+.page-banner img {
+  width: 100%;
+  height: 600px;
+  object-fit: cover;
+  filter: brightness(50%);
+}
+
+.page-title {
+  position: absolute;
+  bottom: 30px;
+  left: 50%;
+  color: #ffffff;
+}
+
+.page-title h2 {
+  font-size: 3rem;
 }
