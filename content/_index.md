@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Welcome to Tauiwi Solutions
 subtitle: Our team is headed by Suzanne Menzies-Culling
 photo: /img/home-img.jpg
 intro: >-
