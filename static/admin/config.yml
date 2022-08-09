@@ -25,6 +25,7 @@ collections:
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: Banner image, name: banner, widget: image, required: false }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - label: "Pages"
     name: "pages"
