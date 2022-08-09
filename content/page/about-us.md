@@ -1,6 +1,7 @@
 ---
 title: About Us
 date: 2022-07-31T22:00:04.818Z
+banner: /img/home-img.jpg
 ---
 Our team is headed by Suzanne Menzies-Culling
 
