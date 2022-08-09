@@ -1,6 +1,6 @@
 ---
 title: Website Terms of Use
-date: 2022-08-09T09:57:16.911Z
+date: 2022-07-31T21:30:16.911Z
 banner: /img/term-of-use.jpg
 ---
 In these terms we refer to Tauiwi Solutions as "we" and "us" and anybody using or accessing this site or the information and documents on it as "you". By using or accessing this site or the information or documents on it you agree to the following terms
