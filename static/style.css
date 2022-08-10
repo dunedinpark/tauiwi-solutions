@@ -88,3 +88,11 @@ a.cta-btn:hover {
   margin-bottom: 2rem;
   color: rgb(165, 217, 251);
 }
+
+footer {
+  background-color: #33373d;
+  color: #878d96;
+}
+footer a.nav-link {
+  color: #878d96;
+}
