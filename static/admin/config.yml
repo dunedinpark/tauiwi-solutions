@@ -34,7 +34,14 @@ collections:
         name: "home"
         file: "content/_index.md"
         fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Sub title, name: subtitle, widget: string}
-          - {label: Photo, name: photo, widget: image}
-          - {label: Intro, name: body, widget: markdown}
+          - {label: 'Title', name: 'title', widget: 'string'}
+          - {label: 'Sub title', name: 'subtitle', widget: 'string'}
+          - {label: 'Photo', name: 'photo', widget: 'image'}
+          - label: 'Address'
+            name: 'address'
+            widget: 'object'
+            summary: 'Your address details'
+            fields:
+              - {label: 'Email', name: 'email', widget: 'string'}
+              - {label: 'Phone', name: 'phone', widget: 'number', value_type: 'int'}
+          - {label: 'Intro', name: 'body', widget: 'markdown'}
