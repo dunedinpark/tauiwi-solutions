@@ -2,6 +2,9 @@
 title: Tauiwi Solutions
 subtitle: Our team is headed by Suzanne Menzies-Culling
 photo: /img/home-img.jpg
+address:
+  email: " suzannemc@imail.net.nz"
+  phone: 34877088
 ---
 ## Welcome to Tauiwi Solutions
 
