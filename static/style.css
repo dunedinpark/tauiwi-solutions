@@ -13,6 +13,7 @@ a.tauiwi-logo {
 
 a.tauiwi-logo img {
   border-radius: 50%;
+  box-shadow: rgb(0 12 28 / 60%) 0px 1px 45px;
 }
 
 @media (max-width: 992px) {
@@ -25,6 +26,7 @@ p.site-title {
   margin-bottom: 0;
   font-weight: 700;
   font-size: 1.4rem;
+  text-shadow: rgb(0 12 28 / 80%) 0px 1px 20px;
 }
 
 p.site-title, .navbar-nav a {
