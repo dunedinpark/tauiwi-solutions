@@ -96,3 +96,6 @@ footer {
 footer a.nav-link {
   color: #878d96;
 }
+footer .nav-link:hover {
+  color: #ffffff;
+}
