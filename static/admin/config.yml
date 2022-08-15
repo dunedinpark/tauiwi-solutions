@@ -43,5 +43,6 @@ collections:
             summary: 'Your address details'
             fields:
               - {label: 'Email', name: 'email', widget: 'string'}
-              - {label: 'Phone', name: 'phone', widget: 'number', value_type: 'int'}
+              - {label: 'Phone', name: 'phone', widget: 'number'}
+              - {label: 'Postal Address', name: 'postal', widget: 'string'}
           - {label: 'Intro', name: 'body', widget: 'markdown'}
