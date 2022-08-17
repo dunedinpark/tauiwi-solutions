@@ -93,8 +93,9 @@ a.cta-btn:hover {
   font-size: 1.2rem
 }
 
-.info-col .bi.bi-envelope {
-  font-size: 1.4rem;
+.info-col .bi-envelope-fill, .info-col .bi-telephone-fill, .info-col .bi-mailbox2 {
+  padding-right: 1rem;
+  color: rgb(141, 100, 160);
 }
 
 footer {
