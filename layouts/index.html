@@ -7,17 +7,16 @@
       <a class="cta-btn" href="/page/about-us/">Learn more</a>
     </div>
   </div>
-  <div class="container">
-    <div class="row justify-content-center">
-      <div class="col-md-9"><p>{{ .Content }}</p></div>
-    </div>
-  </div>
-  <div class="container">
-    <div class="row justify-content-center info-col">
-      <div class="col-md-9">
+  <div class="container my-5">
+    <div class="row">
+      <div class="col-md-6">
+        {{ .Content }}
+      </div>
+      <div class="col-md-6">
         <h2>Contact Us</h2>
-        <p><i class="bi bi-envelope"></i>Email: {{ .Params.address.email }}</p>
-        <p>Phone: {{ .Params.address.phone }}</p>
+        <p><i class="bi bi-envelope"></i>{{ .Params.address.email }}</p>
+        <p><i class="bi bi-telephone"></i>{{ .Params.address.phone }}</p>
+        <p><i class="bi bi-mailbox"></i>{{ .Params.address.postal }}</p>
       </div>
     </div>
   </div>
