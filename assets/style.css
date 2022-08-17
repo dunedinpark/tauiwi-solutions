@@ -89,6 +89,10 @@ a.cta-btn:hover {
   color: rgb(165, 217, 251);
 }
 
+.text {
+  font-size: 1.2rem
+}
+
 .info-col .bi.bi-envelope {
   font-size: 1.4rem;
 }
