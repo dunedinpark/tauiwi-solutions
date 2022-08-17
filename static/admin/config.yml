@@ -42,7 +42,7 @@ collections:
             widget: 'object'
             summary: 'Your address details'
             fields:
-              - {label: 'Email', name: 'email', widget: 'string'}
-              - {label: 'Phone', name: 'phone', widget: 'number'}
-              - {label: 'Postal Address', name: 'postal', widget: 'string'}
+              - {label: 'Email', name: 'email', widget: 'string', required: false}
+              - {label: 'Phone', name: 'phone', widget: 'number', value_type: 'int', required: false}
+              - {label: 'Postal Address', name: 'postal', widget: 'string', required: false}
           - {label: 'Intro', name: 'body', widget: 'markdown'}
