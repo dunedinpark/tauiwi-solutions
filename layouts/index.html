@@ -17,9 +17,7 @@
         <h2>Contact Us</h2>
         <p><i class="bi bi-envelope-fill"></i>{{ .Params.address.email }}</p>
         <p><i class="bi bi-telephone-fill"></i>0{{ .Params.address.phone }}</p>
-        {{ if isset .Params "address.postal" }}
-          <p><i class="bi bi-mailbox2"></i>{{ .Params.address.postal }}</p>
-        {{ end }}
+        <p><i class="bi bi-mailbox2"></i>{{ .Params.address.postal }}</p>
       </div>
     </div>
   </div>
