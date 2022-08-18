@@ -7,7 +7,7 @@
       <a class="cta-btn" href="/page/about-us/">Learn more</a>
     </div>
   </div>
-  
+
   <div class="container my-5 text">
     <div class="row">
       <div class="col-md-6">
@@ -16,8 +16,10 @@
       <div class="col-md-6 info-col">
         <h2>Contact Us</h2>
         <p><i class="bi bi-envelope-fill"></i>{{ .Params.address.email }}</p>
-        <p><i class="bi bi-telephone-fill"></i>{{ .Params.address.phone }}</p>
-        <p><i class="bi bi-mailbox2"></i>{{ .Params.address.postal }}</p>
+        <p><i class="bi bi-telephone-fill"></i>0{{ .Params.address.phone }}</p>
+        {{ if isset .Params "address.postal" }}
+          <p><i class="bi bi-mailbox2"></i>{{ .Params.address.postal }}</p>
+        {{ end }}
       </div>
     </div>
   </div>
