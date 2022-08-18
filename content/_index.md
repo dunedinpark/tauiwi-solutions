@@ -5,7 +5,7 @@ photo: /img/home-img.jpg
 address:
   email: suzannemc@imail.net.nz
   phone: 34877088
-  postal: ""
+  postal: P.O. Box 3003, Dunedin 9045
 ---
 ## Welcome to Tauiwi Solutions
 
