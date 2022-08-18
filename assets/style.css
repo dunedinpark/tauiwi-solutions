@@ -114,6 +114,8 @@ footer .nav-link:hover {
 }
 footer .foot-links {
   margin-top: 3rem;
+}
+footer .foot-links .col-md-9 {
   padding-top: 2rem;
   border-top: 1px solid #878d96;
 }
