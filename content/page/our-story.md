@@ -1,6 +1,6 @@
 ---
 title: Our Story
-date: 2022-08-23T09:54:31.164Z
+date: 2022-08-06T22:00:31.164Z
 banner: /img/our-story.jpg
 ---
 Offered by cross-cultural Tauiwi facilitators based in Otepoti (Dunedin).We have worked as facilitators since the 1980's and are skilled and experienced Treaty of Waitangi educators
