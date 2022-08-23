@@ -1,6 +1,6 @@
 ---
 title: Resources
-date: 2022-07-31T21:40:04.382Z
+date: 2022-08-07T22:00:04.382Z
 banner: /img/resources.jpg
 ---
 Links and resources below for you to explore
