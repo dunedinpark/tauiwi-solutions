@@ -23,7 +23,8 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Title', name: 'title', widget: 'string', hint: 'The page title. Appears in the menu' }
+      - { label: 'Display Title', name: 'display-title', widget: 'string', required: false, hint: 'Appears on the page. If left blank, the Title will be there' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: Banner image, name: banner, widget: image, required: false }
       - { label: 'Body', name: 'body', widget: 'markdown' }
