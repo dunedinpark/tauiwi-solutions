@@ -28,7 +28,7 @@
         </button>
         <div class="collapse navbar-collapse justify-content-end" id="navbarNavMarkup">
           <div class="navbar-nav">
-            {{ range .Site.RegularPages }}
+            {{ range first 4 .Site.RegularPages }}
               {{ .Render "nav-links"}}
             {{ end }}
           </div>
