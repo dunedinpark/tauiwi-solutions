@@ -1,6 +1,6 @@
 ---
 title: Beams & Specks Workshops
-display-title: ""
+display-title: Beams & Specks Workshops - Tools for the Third Millennium
 date: 2022-08-08T22:00:49.508Z
 banner: /img/workshops.jpg
 ---
