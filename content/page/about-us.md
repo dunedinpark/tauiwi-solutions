@@ -1,5 +1,6 @@
 ---
 title: About Us
+display_title: Test about us display title
 date: 2022-08-09T22:00:04.818Z
 banner: /img/home-img.jpg
 ---
