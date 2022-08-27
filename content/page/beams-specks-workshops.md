@@ -2,6 +2,7 @@
 title: Beams & Specks Workshops
 display_title: Tools for the Third Millennium
 date: 2022-08-09T10:00:39.323Z
+banner: /img/workshops.jpg
 ---
 Beams & Specks - when you open the curtains and let in the beams of sunlight, You see all the specks of dust that were always there but not able to be seen.
 
