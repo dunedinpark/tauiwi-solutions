@@ -36,7 +36,9 @@ We are able to fashion a workshop that will suit your organisation and fit with 
 ## Comments from past workshop participants:
 
 > "I was able at last to, understand the Treaty of Waitangi. It was a different type of workshop than I expected. It gave me lots of food for thought."
->
+
+
+
 > "A very interesting and informative day with two interesting presenters. Friendly and relaxing."
 
 "What good presenters! Everything was so much easier to understand. I enjoyed the general discussion, the video, the whole day really."
