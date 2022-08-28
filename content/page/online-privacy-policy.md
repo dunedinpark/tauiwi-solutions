@@ -21,8 +21,8 @@ For more information please refer to the [Privacy Act](legislation.govt.nz) (ext
 
 To view any personal information held by us, or if you have any concerns about personal information that we hold and wish to request its correction, please write to:
 
-**The Privacy Officer
-Tauiwi Solutions
-P O Box 3003
-Dunedin 9045
-info@tauiwisolutions.org.nz**
+**The Privacy Officer**\
+**Tauiwi Solutions**\
+**P O Box 3003**\
+**Dunedin 9045**\
+**info@tauiwisolutions.org.nz**
