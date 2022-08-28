@@ -129,11 +129,18 @@ footer .foot-links .col-md-9 {
   padding-top: 2rem;
   border-top: 1px solid #878d96;
 }
-footer .foot-links a.nav-link {
+footer .foot-links a.nav-link, footer .foot-links p {
   display: inline;
+}
+footer .foot-links p {
+  float: right;
 }
 @media (max-width: 768px) {
   footer .row.footer-mobile-padding {
     padding: 0 1.5rem;
+  }
+  footer .foot-links p {
+    float: left;
+    margin-top: 1.5rem;
   }
 }
