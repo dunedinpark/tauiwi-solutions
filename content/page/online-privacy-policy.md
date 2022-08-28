@@ -16,3 +16,13 @@ If you visit this website to read or download information, Tauiwi Solutions coll
 * The type of browser you used.
 
 The information collected is used to create summary statistics which allow Tauiwi Solutions to assess the number of visitors to different sections of the website, identify what information is of most and least interest, monitor system performance, and help us make our site more useful to visitors. Information collected is not passed to any third party.
+
+For more information please refer to the [Privacy Act](legislation.govt.nz) (ext link).
+
+To view any personal information held by us, or if you have any concerns about personal information that we hold and wish to request its correction, please write to:
+
+**The Privacy Officer
+Tauiwi Solutions
+P O Box 3003
+Dunedin 9045
+info@tauiwisolutions.org.nz**
