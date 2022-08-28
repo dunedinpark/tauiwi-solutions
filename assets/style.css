@@ -7,6 +7,10 @@ h1, h2 {
   font-weight: 700;
 }
 
+h2 {
+  margin: 2rem 0;
+}
+
 .navbar-toggler {
   border: 1px solid #ffffff;
 }
@@ -127,4 +131,9 @@ footer .foot-links .col-md-9 {
 }
 footer .foot-links a.nav-link {
   display: inline;
+}
+@media (max-width: 768px) {
+  footer .row.footer-mobile-padding {
+    padding: 0 1.5rem;
+  }
 }
