@@ -15,9 +15,11 @@ NZ Government Treaty site - <https://nzhistory.govt.nz/politics/treaty-of-waitan
 
 Wikipedia Treaty site - <http://en.wikipedia.org/wiki/Treaty_of_Waitangi>
 
-Women’s Refuge - <http://www.womensrefuge.org.nz/>
-
 ## Resources
+
+M﻿atike Mai Aotearoa - http://www.converge.org.nz/pma/MatikeMaiAotearoaReport.pdf
+
+R﻿eport by the Independent Panel on Ngapuhi Tonu Claim -"Ngapuhi Speaks" available from Network Waitangi Whangarei
 
 Seabed and Foreshore – Moana Jackson’s Report to UN Special Rapporteur - http://www.converge.org.nz/pma/mj050406.htm
 
@@ -31,11 +33,15 @@ If you are interested in exploring some of the issues the we raise in our variou
 
 In a Land of Plenty 2002 - 20th Century NZ
 
-The NZ Wars 1998  - NZ History
+T﻿he Negotiators  - Maori TV , available on Demand
+
+"﻿Uncharted with Sam Neill" - Prime TV
+
+"﻿Operation 8 - Deep in the Forest"
+
+The NZ Wars 1998  - NZ History, James Belich.
 
 Someone Else's Country 1996 - 20th Century NZ
-
-The Piano 1993 - early NZ
 
 Mauri 1998 NZ rural life
 
@@ -46,8 +52,6 @@ Bastion Point - Day 507 1983 - 1978 NZ
 Utu 1983 - early NZ
 
 Patu 1984 - 1981 Tour
-
-The Governor (TV series) 1977 - NZ History
 
 **International**
 
@@ -82,9 +86,3 @@ Gandhi 1982 India
 Sons For the Return Home 1979 Samoa/NZ
 
 All the Presidents Men 1976 USA 20th Century
-
-
-
-
-
-**[Final report - Matike Mai Aotearoa 25 Jan 2016](https://drive.google.com/file/d/1JGpj_QKZGBdr3vrHAtAdoYKFfcV5tThv/view?usp=sharing)**
