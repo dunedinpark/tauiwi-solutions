@@ -36,13 +36,11 @@ We are able to fashion a workshop that will suit your organisation and fit with 
 ## Comments from past workshop participants:
 
 > "I was able at last to, understand the Treaty of Waitangi. It was a different type of workshop than I expected. It gave me lots of food for thought."
-
-
-
+>
+> "﻿I have been to many workshops on Te Tiriti as they have evolved, but this was the one from which I learned the most; or was able to receive the most. I particularly appreciated the way you did not require a response, nor have us act out anything for which we were not ready. Instead, the approach was generous, quiet and receptive throughout. What a privilege."
+>
 > "A very interesting and informative day with two interesting presenters. Friendly and relaxing."
-
-
-
+>
 > "What good presenters! Everything was so much easier to understand. I enjoyed the general discussion, the video, the whole day really."
 
 ## Workshop fees:
