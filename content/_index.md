@@ -1,6 +1,6 @@
 ---
 title: Tauiwi Solutions
-subtitle: Specialising in Te Tiriti o Waitangi & Decolonisation workshops
+subtitle: Te Tiriti o Waitangi & Decolonisation workshops
 photo: /img/home-img.jpg
 address:
   email: suzannemc@imail.net.nz
