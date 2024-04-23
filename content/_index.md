@@ -1,6 +1,6 @@
 ---
 title: Tauiwi Solutions
-subtitle: Suzanne Menzies-Culling - Director
+subtitle: Specialising in Te Tiriti o Waitangi & Decolonisation workshops
 photo: /img/home-img.jpg
 address:
   email: suzannemc@imail.net.nz
