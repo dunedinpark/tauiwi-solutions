@@ -15,6 +15,7 @@ Since the 1980's we have done treaty work around the country with:-
 
 * Church groups
 * District Health Board management
+* T﻿erritorial Authorities
 * Health workers
 * Peace and Justice groups
 * Kura Kaupapa Parents
