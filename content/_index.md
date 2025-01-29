@@ -3,7 +3,7 @@ title: Tauiwi Solutions
 subtitle: Te Tiriti o Waitangi & Decolonisation workshops
 photo: /img/home-img.jpg
 address:
-  email: suzannemc@imail.net.nz
+  email: suzanne.menziesculling@gmail.com
   phone: 211623548
   postal: 26 Cole St, Dunedin 9012
 ---
